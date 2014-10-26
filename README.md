@@ -1,7 +1,7 @@
 robotsfindkitten
 ================
 
-A Massive Multiplayer Online zen simulation in which you are a robot (#).
+A Massively Multiplayer Online zen simulation in which you are a robot (#).
 Your job is to find kitten. This task is complicated by the existence of various
 things which are not kitten. Robots must touch items to determine if they are
 kitten or not. The game starts over when a robotfindskitten. When you are zen

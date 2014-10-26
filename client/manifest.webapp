@@ -1,7 +1,7 @@
 {
   "version": "1",
   "name": "robotsfindkitten",
-  "description": "A massive multiplayer online zen simulation in which you play a robot. Your goal is to find kitten. `robotfindskitten` is a Zen simulation that was originally submitted to an art contest. The goal is to find kitten among a number of non-kitten items. `robotsfindkitten` is a MMO version of that game.",
+  "description": "A massively multiplayer online zen simulation in which you play a robot. Your goal is to find kitten. `robotfindskitten` is a Zen simulation that was originally submitted to an art contest. The goal is to find kitten among a number of non-kitten items. `robotsfindkitten` is a MMO version of that game.",
   "launch_path": "/index.html",
   "icons": {
     "128": "/icon-128.png"
